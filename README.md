@@ -19,7 +19,9 @@ I am passionate about analyzing data and building interactive dashboards to gene
 ## Projects
 ## Dashboard Preview
 
-![Dashboard](https://raw.githubusercontent.com/shubhamkumar-analyst/ecommerce-sales-dashboard-excel/main/Dashboard.Png)
+## Dashboard Preview
+
+![Dashboard](https://github.com/shubhamkumar-analyst/ecommerce-sales-dashboard-excel/blob/main/Dashboard.Png?raw=true)
 
 ### 📊 E-Commerce Sales Dashboard
 
