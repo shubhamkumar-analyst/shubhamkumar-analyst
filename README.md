@@ -1,4 +1,28 @@
-## Hi there 👋
+# Hi, I'm Shubham Kumar 👋
+
+## Aspiring Data Analyst
+
+I am passionate about turning raw data into meaningful insights.  
+Currently learning and building projects in Data Analytics.
+
+### Skills
+- Microsoft Excel
+- Power Query
+- Data Cleaning
+- Data Analysis
+- Dashboard Creation
+
+### Tools
+- Excel
+- GitHub
+
+### Projects
+
+📊 E-Commerce Sales Dashboard  
+An interactive Excel dashboard to analyze sales performance, customer orders, and delivery efficiency.
+
+Project Link:  
+https://github.com/shubhamkumar-analyst/ecommerce-sales-dashboard-excel
 
 <!--
 **shubhamkumar-analyst/shubhamkumar-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
