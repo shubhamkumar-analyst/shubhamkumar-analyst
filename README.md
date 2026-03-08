@@ -17,11 +17,12 @@ I am passionate about analyzing data and building interactive dashboards to gene
 ---
 
 ## Projects
-## Dashboard Preview
 
 ## Dashboard Preview
 
-![Dashboard](https://github.com/shubhamkumar-analyst/ecommerce-sales-dashboard-excel/blob/main/Dashboard.Png?raw=true)
+## Dashboard Preview
+
+![Dashboard](Dashboard.Png)
 
 ### 📊 E-Commerce Sales Dashboard
 
