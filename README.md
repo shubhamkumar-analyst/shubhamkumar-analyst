@@ -20,8 +20,6 @@ I am passionate about analyzing data and building interactive dashboards to gene
 
 ## Dashboard Preview
 
-## Dashboard Preview
-
 ![Dashboard](Dashboard.Png)
 
 ### 📊 E-Commerce Sales Dashboard
