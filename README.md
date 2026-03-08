@@ -5,12 +5,13 @@
 I am passionate about turning raw data into meaningful insights.  
 Currently learning and building projects in Data Analytics.
 
-### Skills
-- Microsoft Excel
-- Power Query
-- Data Cleaning
-- Data Analysis
-- Dashboard Creation
+## Skills
+
+![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green)
+![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-blue)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Insights-orange)
+![Dashboard](https://img.shields.io/badge/Dashboard-Visualization-yellow)
+
 
 ### Tools
 - Excel
