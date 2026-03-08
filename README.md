@@ -2,36 +2,35 @@
 
 ## Aspiring Data Analyst
 
-I am passionate about turning raw data into meaningful insights.  
-Currently learning and building projects in Data Analytics.
+I am passionate about turning raw data into meaningful insights and building interactive dashboards.
+Currently learning and developing projects in Data Analytics using Excel.
 
-## Skills
+---
+
+## Skills & Tools
 
 ![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green)
 ![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-blue)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Insights-orange)
 ![Dashboard](https://img.shields.io/badge/Dashboard-Visualization-yellow)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
 
+---
 
-### Tools
-- Excel
-- GitHub
-
-### Projects
-
-📊 E-Commerce Sales Dashboard  
-An interactive Excel dashboard to analyze sales performance, customer orders, and delivery efficiency.
-
-Project Link:  
-https://github.com/shubhamkumar-analyst/ecommerce-sales-dashboard-excel
-
-## Featured Project
+## Projects
 
 ### 📊 E-Commerce Sales Dashboard
 
-![Dashboard](https://github.com/shubhamkumar-analyst/ecommerce-sales-dashboard-excel/blob/main/dashboard.png)
+An interactive Excel dashboard built to analyze sales performance, customer orders, and delivery efficiency.
+This project provides insights into revenue trends, top-performing states and cities, and delivery performance.
 
-Project Link:
-https://github.com/shubhamkumar-analyst/ecommerce-sales-dashboard-excel<!--
-**shubhamkumar-analyst/shubhamkumar-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Project Repository:
+https://github.com/shubhamkumar-analyst/ecommerce-sales-dashboard-excel
+
+---
+
+## Dashboard Preview
+
+![Dashboard](https://raw.githubusercontent.com/shubhamkumar-analyst/ecommerce-sales-dashboard-excel/main/Dashboard.Png)
+profile.
 
