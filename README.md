@@ -8,11 +8,11 @@ I am passionate about analyzing data and building interactive dashboards to gene
 
 ## Skills
 
-* Microsoft Excel
-* Power Query
-* Data Cleaning
-* Data Analysis
-* Dashboard Creation
+![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green)
+![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-blue)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Insights-orange)
+![Dashboard](https://img.shields.io/badge/Dashboard-Visualization-yellow)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
 
 ---
 
