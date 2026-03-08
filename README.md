@@ -25,7 +25,14 @@ An interactive Excel dashboard to analyze sales performance, customer orders, an
 Project Link:  
 https://github.com/shubhamkumar-analyst/ecommerce-sales-dashboard-excel
 
-<!--
+## Featured Project
+
+### 📊 E-Commerce Sales Dashboard
+
+![Dashboard](https://github.com/shubhamkumar-analyst/ecommerce-sales-dashboard-excel/blob/main/dashboard.png)
+
+Project Link:
+https://github.com/shubhamkumar-analyst/ecommerce-sales-dashboard-excel<!--
 **shubhamkumar-analyst/shubhamkumar-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
